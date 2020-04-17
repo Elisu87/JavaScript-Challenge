@@ -1,5 +1,16 @@
-# JavaScript Homework - JavaScript and DOM Manipulation
-Used JavaScript, HTML, and CSS, and D3.js to create a table dynamically based attached data set.
+# JavaScript and DOM Manipulation
+
+#### Description 
+
+Utilized Javasipt to write code that will create a table dynamically based on  UFO Data 
+
+
+#### Technologies 
+
+- JavaScript
+- HTML
+- CSS
+- D3.js to create a table dynamically
 
 ## UFO-level-1 Challenge
 
@@ -8,15 +19,6 @@ Used JavaScript, HTML, and CSS, and D3.js to create a table dynamically based at
 
 -Used a date form in your HTML document and write JavaScript code that will listen for events and search through the date/time column to find rows that match user input.
 
-## UFO-level-2 Challenge
-
--Using multiple input tags and/or select dropdowns, write JavaScript code so the user can to set multiple filters and search for UFO sightings using the following criteria based on the table columns:
-
-date/time
-city
-state
-country
-shape
 
 
 
