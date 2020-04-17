@@ -1,5 +1,7 @@
 # JavaScript and DOM Manipulation
 
+Click Link to access site http://127.0.0.1:5500/index.html
+
 #### Description 
 
 Utilized Javasipt to write code that will create a table dynamically based on  UFO Data 
