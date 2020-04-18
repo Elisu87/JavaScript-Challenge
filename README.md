@@ -1,6 +1,5 @@
 # JavaScript and DOM Manipulation
 
-Click Link to access site http://127.0.0.1:5500/index.html
 
 #### Description 
 
